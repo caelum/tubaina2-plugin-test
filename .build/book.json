@@ -1,0 +1,16 @@
+	{
+		"title": "Untitled {define one in book.properties}",
+		"description": "No description {define one in book.properties}",
+		"author": "Anonymous {define an author in book.properties}",
+
+		"bookCode": "tubaina2-plugin-test",
+		"firstChapter": "/",
+		"numIntroChapters": 0,
+		"partHeaders": [],
+		"pdfImageQuality": "prepress",
+		"pluginsConfig": {
+			 "caelum-tema": {}
+		},
+		"plugins": ["cdc", "cdc-tema" , "caelum-tema"]
+
+	}
